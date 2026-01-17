@@ -1,4 +1,4 @@
-# MLTD-asset-downloader
+# MLTD-asset-downloader.
 
 [![GitHub Build Status](https://img.shields.io/github/actions/workflow/status/nicks96432/mltd-asset-downloader/build.yaml)][build status]
 ![GitHub Repo stars](https://img.shields.io/github/stars/nicks96432/mltd-asset-downloader)
